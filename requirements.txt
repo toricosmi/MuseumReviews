@@ -1,0 +1,7 @@
+aiogram
+pandas
+matplotlib
+python-dateutil
+selenium
+transformers
+torch
